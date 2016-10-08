@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pro Desk Space",
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92360365390779,
+          33.87130636172746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ice Bomb",
+        "address": "107 W Amerige Ave, Fullerton, CA 92832",
+        "features": "boba, desserts",
+        "marker-color": "#ff00ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9246497154236,
+          33.87147561472574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Bing",
+        "address": "124 W Wilshire Ave Ste A1, Fullerton, CA 92832",
+        "features": "boba, smoothies, snacks, desserts",
+        "marker-color": "#ff00ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92544901371001,
+          33.87228178887437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cha2O",
+        "address": "100 S Harbor Blvd Ste B, Fullerton, CA 92832",
+        "features": "Full menu Pan-Asian cuisine, boba, drinks, desserts",
+        "marker-color": "#ff00ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92403280735014,
+          33.87015275998433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green Bliss",
+        "address": "305 N Harbor Blvd Ste 103, Fullerton, CA 92832",
+        "features": "coffee, tea,, smoothies, sandwiches, desserts",
+        "marker-color": "#ff00ff",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92477309703828,
+          33.87259356689003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rutabegorz",
+        "address": "211 N Pomona Ave, Fullerton, CA 92832",
+        "features": "Full menu, smoothies, vegetarian options, desserts",
+        "marker-color": "#800080",
+        "marker-size": "medium",
+        "marker-symbol": "square-stroked",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92230546474455,
+          33.87172949359392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tranquil Tea Lounge",
+        "address": "106 W Wilshire Ave, Fullerton, CA 92832",
+        "features": "tea, sandwiches",
+        "marker-color": "#ff00ff",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92471945285796,
+          33.87228624285404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seoulmate",
+        "address": "114 W Commonwealth Ave, Fullerton, CA 92832",
+        "features": "Korean-Mexican fusion, drinks, vegetarian options",
+        "marker-color": "#800080",
+        "marker-size": "medium",
+        "marker-symbol": "square-stroked",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92461216449739,
+          33.87006367812021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burger Parlor",
+        "address": "204 N Harbor Blvd, Fullerton, CA 92832",
+        "features": "burgers, salads, drinks",
+        "marker-color": "#800080",
+        "marker-size": "medium",
+        "marker-symbol": "square-stroked",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92402744293213,
+          33.87151124689315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Night Owl",
+        "address": "200 N Harbor Blvd Fullerton, CA 92832",
+        "features": "Coffee, tea, desserts",
+        "marker-color": "#ff00ff",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92415618896483,
+          33.8715023388527
+        ]
+      }
+    }
+  ]
+}
