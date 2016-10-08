@@ -43,7 +43,7 @@
         "features": "boba, smoothies, snacks, desserts",
         "marker-color": "#ff00ff",
         "marker-size": "medium",
-        "marker-symbol": "circle-stroked",
+        "marker-symbol": "circle-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -97,7 +97,7 @@
         "features": "Full menu, smoothies, vegetarian options, desserts",
         "marker-color": "#800080",
         "marker-size": "medium",
-        "marker-symbol": "square-stroked",
+        "marker-symbol": "square-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +115,7 @@
         "features": "tea, sandwiches",
         "marker-color": "#ff00ff",
         "marker-size": "medium",
-        "marker-symbol": "triangle-stroked",
+        "marker-symbol": "triangle-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -133,7 +133,7 @@
         "features": "Korean-Mexican fusion, drinks, vegetarian options",
         "marker-color": "#800080",
         "marker-size": "medium",
-        "marker-symbol": "square-stroked",
+        "marker-symbol": "square-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +151,7 @@
         "features": "burgers, salads, drinks",
         "marker-color": "#800080",
         "marker-size": "medium",
-        "marker-symbol": "square-stroked",
+        "marker-symbol": "square-stroked"
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +169,7 @@
         "features": "Coffee, tea, desserts",
         "marker-color": "#ff00ff",
         "marker-size": "medium",
-        "marker-symbol": "triangle-stroked",
+        "marker-symbol": "triangle-stroked"
       },
       "geometry": {
         "type": "Point",
