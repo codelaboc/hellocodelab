@@ -22,7 +22,18 @@
       <script>
       var myMap   = L.map('mapid').setView([33.871426620471276,-117.92432248592375], 16);
       var myTiles = L.tileLayer('http://{s}.tile.stamen.com/terrain/{z}/{x}/{y}.png').addTo(myMap);
-      var mySpots = $.getJSON('hacktober.geojson');
+      var mySpots = $.getJSON('hacktober.geojson', function(data) {
+          console.log(data)
+          L.geoJson(data, {
+            style: {
+              radius: 5,
+              fillColor:"#ff7f00"
+            },
+            pointToLayer: function(feature, latlon) {
+              return L.circleMarker(latlon).bindPopup(feature.properties.name);
+            }
+          }).addTo(myMap);
+      });
       // mySpots is the response to getJSON request
       // getJSON takes one parameter, hactober.geojson
   	</script>
