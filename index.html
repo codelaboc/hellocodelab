@@ -27,10 +27,10 @@
           L.geoJson(data, {
             style: {
               radius: 5,
-              fillColor:"#ff7f00"
+              fillColor: "#ff7f00"
             },
             pointToLayer: function(feature, latlon) {
-              return L.circleMarker(latlon).bindPopup(feature.properties.name);
+              return L.circleMarker(latlon).bindPopup(feature.properties.name + "<br>" + feature.properties.features);
             }
           }).addTo(myMap);
       });
