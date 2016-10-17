@@ -11,8 +11,9 @@
 			  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
 			  crossorigin="anonymous"></script>
         <style>
+            body, html,
             #mapid {
-                height: 500px;
+                height: 100%;
             }
         </style>
     </head>
@@ -20,14 +21,18 @@
       <div id="mapid"></div>
 
       <script>
-      var myMap   = L.map('mapid').setView([33.871426620471276,-117.92432248592375], 16);
-      var myTiles = L.tileLayer('http://{s}.tile.stamen.com/terrain/{z}/{x}/{y}.png').addTo(myMap);
+      var myMap   = L.map('mapid').setView([33.871426620471276,-117.92432248592375], 17);
+      var myTiles = L.tileLayer('http://{s}.tile.stamen.com/terrain/{z}/{x}/{y}.png', {
+        attribution: 'Made at CodeLab OC'
+      }).addTo(myMap);
       var mySpots = $.getJSON('hacktober.geojson', function(data) {
           console.log(data)
           L.geoJson(data, {
             style: {
-              radius: 5,
-              fillColor: "#ff7f00"
+              radius: 6,
+              fillColor: "#E9692C",
+              color: "#E9692C",
+              fillOpacity: 1
             },
             pointToLayer: function(feature, latlon) {
               return L.circleMarker(latlon).bindPopup(feature.properties.name + "<br>" + feature.properties.features);

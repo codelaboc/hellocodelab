@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Pro Desk Space",
+        "features":"Awesome coworking space!",
         "marker-color": "#ff8000",
         "marker-size": "medium",
         "marker-symbol": "star-stroked"
