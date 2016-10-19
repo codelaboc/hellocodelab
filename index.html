@@ -35,12 +35,12 @@
               fillOpacity: 1
             },
             pointToLayer: function(feature, latlon) {
-              return L.circleMarker(latlon).bindPopup(feature.properties.name + "<br>" + feature.properties.features);
+              return L.circleMarker(latlon).bindPopup(feature.properties.name + "<br>" + feature.properties.offers);
             }
           }).addTo(myMap);
       });
       // mySpots is the response to getJSON request
-      // getJSON takes one parameter, hactober.geojson
+      // getJSON takes one parameter, hacktober.geojson
   	</script>
   </body>
 </html>
