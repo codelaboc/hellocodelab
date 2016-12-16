@@ -16,5 +16,5 @@ At CodeLab we pair program with Exercism.io. You can read more about and get set
 Much love and thanks to our venue sponsor, [Pro Desk Space](http://prodeskspace.com/) for hosting us!
 
 ### Say hello and keep in touch!
-Follow us at [@CodeLabOC](https://twitter.com/codelaboc)
+Follow us at [@CodeLabOC](https://twitter.com/codelaboc)!
 For more info, see the [CodeLab Official Site](https://codelaboc.github.io/)
