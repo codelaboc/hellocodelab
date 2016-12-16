@@ -1,8 +1,8 @@
 # 🍊🔬 Welcome to CodeLab OC! :alembic:
 CodeLab is a community for programmers of all levels and backgrounds getting together to learn and build coding projects. Whether you're learning to code for the first time, or are an experienced programmer learning a new language, all ages, levels, and backgrounds are welcome.
 
-## CodeLab OC Mission
-CodeLab aims to create an all-inclusive, welcoming, supportive community and environment to learn and build code.
+## CodeLab OC Mission & Code of Conduct
+CodeLab aims to create an all-inclusive, welcoming, supportive community and environment to learn and build code. All community members shall agree to our [Code of Conduct](http://maptime.io/code-of-conduct/).
 
 ## Where to find us 🗺
 We meet every other Monday night at Pro Desk Space in Downtown Fullerton. [Check our latest events and RSVP](https://www.meetup.com/Orange-Countys-Creative-CoWorking-Downtown-Fullerton/events/235909551/).
