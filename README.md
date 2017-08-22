@@ -5,7 +5,7 @@ CodeLab is a community for programmers of all levels and backgrounds getting tog
 CodeLab aims to create an all-inclusive, welcoming, supportive community and environment to learn and build code. All community members shall agree to our [Code of Conduct](http://maptime.io/code-of-conduct/).
 
 ## Where to find us 🗺
-We meet every other Monday night at Pro Desk Space in Downtown Fullerton. [Check our latest events and RSVP](https://www.meetup.com/Orange-Countys-Creative-CoWorking-Downtown-Fullerton/events/235909551/).
+We meet every Monday night at Pro Desk Space in Downtown Fullerton. [Check our latest events and RSVP](https://www.meetup.com/Orange-Countys-Creative-CoWorking-Downtown-Fullerton/events/235909551/).
 
 ## Learning together :raised_hand_with_fingers_splayed:
 We learn together by Pair Programming in which one person drives the computer while both partners talk through finding the solution to coding challenges.
